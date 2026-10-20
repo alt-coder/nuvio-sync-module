@@ -1,0 +1,8 @@
+{
+  "name": "nuvio-sync-module",
+  "version": "1.2.10",
+  "packageType": "app",
+  "appName": "Nuvio Sync (webview)",
+  "appPath": "app/index.html",
+  "description": "TizenBrew webview wrapper for Nuvio Sync. Native AVPlay and waveform auto-sync are only available in the WGT installed through TizenBrew Installer."
+}
